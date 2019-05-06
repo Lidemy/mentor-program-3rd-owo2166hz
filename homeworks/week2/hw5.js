@@ -1,10 +1,7 @@
-function join(str, concatStr) {
-  return concatStr;
-}
-
 function repeat(str, times) {
-  return times;
+  let result = '';
+  for (let i = 0; i <times; i += 1) {
+    result += str;
+  }
+  return result;
 }
-
-console.log(join('a', '!'));
-console.log(repeat('a', 5));
