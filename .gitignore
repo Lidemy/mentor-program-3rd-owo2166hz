@@ -1,8 +1,3 @@
-node_modules/
-conn.php
-.DS_STORE
-config/
-conemu-maximus5/
 .history
-/.history
-config/.history
+user-ConEmu.xml
+ConEmu.xml
